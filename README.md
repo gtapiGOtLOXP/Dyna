@@ -1,6 +1,7 @@
 # Dyna
 
-![Screenshot 2025-06-11 162214](https://github.com/user-attachments/assets/d4c0c85e-41ad-4376-a553-3270445fa0b8)
+<img width="1433" height="705" alt="image" src="https://github.com/user-attachments/assets/2e172df4-367f-4287-80f2-5035b7a096e5" />
+
 
 A terminal-based utility for managing Discord webhooks via Discord's public API. Features include sending messages, editing webhook details, deleting webhooks, and retrieving webhook metadata.
 
