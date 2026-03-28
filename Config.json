@@ -12,7 +12,7 @@
         "thread-count": "3"
     },
     "cfg2": {
-        "message": "Alert",
+        "message": "@everyone",
         "embed": "y",
         "embed-data": {
             "title": "System Check",
